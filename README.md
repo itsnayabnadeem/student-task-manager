@@ -38,5 +38,3 @@ Student-Task-Manager/
 ├── script.js
 └── README.md
 ```
-
-<!-- Temporary note for revert task -->

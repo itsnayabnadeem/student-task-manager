@@ -1,4 +1,4 @@
-# Student Task Manager
+# Student Task Manager project
 
 A simple and user-friendly task management application designed to help students organize their daily tasks and manage their academic responsibilities efficiently.
 

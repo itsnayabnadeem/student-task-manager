@@ -1,4 +1,4 @@
-# Student Task Manager project
+# Student Task Management Application
 
 A simple and user-friendly task management application designed to help students organize their daily tasks and manage their academic responsibilities efficiently.
 
@@ -37,3 +37,6 @@ Student-Task-Manager/
 ├── style.css
 ├── script.js
 └── README.md
+```
+
+

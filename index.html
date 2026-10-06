@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Task Manager</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Student Task Manager</h1>
+            <p>Collaborative Task Management Application</p>
+        </header>
+
+        <!-- Task Input Form -->
+        <form class="task-form" id="taskForm">
+            <div class="form-group">
+                <input type="text" id="taskTitle" placeholder="Task Title" required>
+            </div>
+            <div class="form-group">
+                <textarea id="taskDesc" rows="3" placeholder="Task Description"></textarea>
+            </div>
+            <button type="submit" class="btn-primary">Add Task</button>
+        </form>
+
+        <!-- Task List Display -->
+        <div class="task-list" id="taskList">
+            <div class="task-card">
+                <div class="task-info">
+                    <h3>Review Git Workflow</h3>
+                    <p>Inspect branches, commits, and pull requests.</p>
+                </div>
+                <div class="task-actions">
+                    <button class="btn-complete">Complete</button>
+                    <button class="btn-delete">Delete</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Team Credits -->
+        <footer class="team-section">
+            <p><strong>Student 1:</strong> Nayab Nadeem (BSDSF25M003)</p>
+            <p><strong>Student 2:</strong> Aqsa Bibi (BSDSF25M014)</p>
+        </footer>
+    </div>
+</body>
+</html>

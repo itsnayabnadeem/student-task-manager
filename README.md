@@ -32,15 +32,35 @@ Student Task Manager provides a simple interface where students can add tasks by
 ## Project Structure
 
 ```text
-Student-Task-Manager/
+Student-Task-Manager
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
 ```
+## final result
 
-<<<<<<< HEAD
+![Final Task Manager](ss39.png)
+## Final Submission Checklist
+- [x] Git installed and configured
+- [x] Local repository initialized
+- [x] Multiple meaningful commits created
+- [x] Branches created and used
+- [x] GitHub repository created and connected
+- [x] Feature branches pushed
+- [x] At least 3 GitHub Issues created
+- [x] At least 3 Pull Requests completed
+- [x] Code reviews completed
+- [x] At least one merge conflict created and resolved
+- [x] git stash demonstrated
+- [x] git restore demonstrated
+- [x] git reset demonstrated
+- [x] git revert demonstrated
+- [x] Git tag v1.0.0 created
+- [x] GitHub Release created
+- [x] Both students contributed
+- [x] Final application screenshot included
+- [x] Final GitHub screenshot included
+- [x] Final Git history screenshot included
+- [x] Final questions answered
 
-=======
-<!--testing git reset-->
->>>>>>> 64ae3a79cb2f724ea33f6ac1a5982e5cf451ba24

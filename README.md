@@ -38,3 +38,9 @@ Student-Task-Manager/
 ├── script.js
 └── README.md
 ```
+
+<<<<<<< HEAD
+
+=======
+<!--testing git reset-->
+>>>>>>> 64ae3a79cb2f724ea33f6ac1a5982e5cf451ba24
